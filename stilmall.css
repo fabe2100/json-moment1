@@ -3,34 +3,37 @@
     Fyll i egna CSS-regler här under för att snygga till webbsidan
 */
 body {
-    font-family: georgia, serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif serif;
     font-size: 18px;
     line-height: 1.6em;
-    background-color: #ccc;
+    background-color: #fff;
 }
 .container {
     width: 600px;
     padding: 20px;
     border-radius: 8px;
-    background-color: #fff;
+    background-color:#1234;
     margin: 0 auto;
+      background-color: whitesmoke;
 }
 h1 { text-align: center; }
 p { margin: 2px 0 2px 0; }
 
-thead td { font-weight: bold; }
+thead td { font-weight: bold; background-color: blanchedalmond;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; }
 
 footer {
-    margin-top: 2em; font-size: 14px; color: #666;
+    margin-top: 2em; font-size: 14px; color: #666; text-align: center;
 }
 
 thead td:nth-child(1) { width: 25%; }
 thead td:nth-child(2) { width: 65%; }
 td:nth-child(3) { width: 10%; text-align: center; }
-tr:nth-child(even) { background-color: #ccc; }
+tr:nth-child(even) { background-color: lightgrey ; }
 
 table {
     border-collapse: collapse;
+    font-size: 0.8em
+    
 }
 
 .kurser {
