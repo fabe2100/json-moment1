@@ -4,7 +4,7 @@
       "info": "Jag heter Fauzia Bensliman ."
     },
     {
-      "info":         "Jag studerar på Mituniversitet på Webbutvecklare programmet."
+      "info":         "Jag studerar på Mittuniversitet på Webbutvecklare programmet."
     }
   ],
   "kurser": [
@@ -19,6 +19,14 @@
       "namn":         "Webbutveckling II",
       "progression":  "B",
       "kursplan":     "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15474"
+    },
+    {
+      "kurskod":      "DT197G",
+      "namn":         "Webbdesign för CMS",
+      "progression":  "B",
+      "kursplan":     "https://www.miun.se/en/education/search-syllabus-and-curriculum/search-syllabus/show-syllabus/?kursplanid=31118"
     }
+    
+    
   ]
 }
