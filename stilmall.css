@@ -39,3 +39,11 @@ table {
 .kurser {
     margin: 1em 0 1em 0; 
 }
+td a{
+ text-decoration: none; 
+ color: midnightblue;
+}
+
+td a:hover{
+  color:blue;
+}
